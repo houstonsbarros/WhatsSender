@@ -7,7 +7,10 @@ rápida, simples e segura sem precisar salvar o contato,
 disponível apenas para telefones do Brasil*.
 
 ## ⚡ Previa do site
-- ![Whatsapp](https://user-images.githubusercontent.com/107281650/176285429-9757b7ab-d54c-404f-98bb-ee9ebbd6e534.png)
+![Whatsapp](https://user-images.githubusercontent.com/107281650/176285429-9757b7ab-d54c-404f-98bb-ee9ebbd6e534.png)
+
+## 🔗 Link do site
+- https://whatssender.netlify.app/
 
 ## 🚀 Tecnologias usadas
 - Html, CSS e JavaScript
